@@ -1,5 +1,5 @@
 # wechat SDK for golang
-此为v1版本, v2请移步到 https://github.com/sunday9th/wechat.v2
+此为v1版本, v2请移步到 github.com/chanxuehong/wechat.v2
 
 ## 简介
 | 模块  | 描述                     |
